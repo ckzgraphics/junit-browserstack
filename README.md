@@ -1,5 +1,5 @@
 # junit-browserstack
-[JUnit](http://junit.org/junit4/) Integration with BrowserStack.
+[JUnit](http://junit.org/junit4/) Integration with BrowserStack [JUNIT 5]
 
 ![BrowserStack Logo](https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780) 
 
